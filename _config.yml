@@ -1,14 +1,14 @@
 # Site settings
-title: A pinch of Heaven
+title: Bliss to my Soul
 description: "A minimal blog template, build with Jekyll."
 url: "http://www.jacoporabolini.com/emerald"
 author:
-  name: "Jacopo Rabolini"
+  name: "Priyanka Wania"
   email: "hello@jacoporabolini.com"
   url: "http://www.jacoporabolini.com"
 
 # Build settings
-baseurl: /food-to-my-soul/ # Change this to your relative path (ex: /blog/), or leave just a /
+baseurl: /Bliss-to-my-soul/ # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
 source: .
 destination: ./_site
