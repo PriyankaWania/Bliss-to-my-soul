@@ -1,7 +1,7 @@
 ## About
 This is a personal blogging site which is created using Jekyll Themes in collaboration with the Github Pages.
 
-![Bliss to my soul](https://github.com/PriyankaWania/Bliss-to-my-soul/img/icon.png "Bliss to my soul" { width=40px height=100px})
+![Emerald](/img/icon.png=250x250 "Emerald")
 
 - Theme used: Emerald 
 - Original Creator: Jacopo Rabolini
