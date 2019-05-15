@@ -1,7 +1,7 @@
 ## About
 This is a personal blogging site which is created using Jekyll Themes in collaboration with the Github Pages.
 
-![Emerald](/img/Emerald01.png "Emerald")
+![Emerald](/img/Emerald01.png=100x100 "Emerald")
 
 - Theme used: Emerald 
 - Original Creator: Jacopo Rabolini
