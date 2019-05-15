@@ -6,7 +6,7 @@
 
 	<title>{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 	
-	<style>
+	<style>{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}
 		body{
 			background-image:url('img/background.png');
 			background-position: top center;
