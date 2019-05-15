@@ -4,7 +4,7 @@ published: true
 ---
 Ever wondered what your worthy of? We all are aware that in the present era, we all somewhere or the other question our own existence because of what is happening around us or what other people think about us. If you think about it, well, you stumbled on the right place! This is the first series and it starts with the book of Matthews. This, right here, is going to help you realise your self-worth and it will be while you go through this amazing spiritual journey. So let's dig in Matther Chapter 1!
 
-![against-all-odds-1.jpg]({{site.baseurl}}/_posts/against-all-odds-1.jpg)
+![]({{site.baseurl}}/https://github.com/a-dash-of-code/Bliss-to-my-soul/blob/gh-pages/img/against-all-odds-1.jpg)
 
 The book of Matthew is the very first book in the new testament, which starts right from the birth of our living Christ. Since my childhood, the first chapter has certainly been about the 14 generations of David and the genealogy behind Christ's birth and how Mother Mary bears a child when virgin. But, now that I closely read think about it, it has a message for all of us in a very unusual but subtle way.
 
