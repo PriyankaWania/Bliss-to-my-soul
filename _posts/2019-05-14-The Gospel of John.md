@@ -2,7 +2,7 @@
 title: Against all odds
 published: true
 ---
-Ever wondered what your worthy of? We all are aware that in the present era, we all somewhere or the other question our own existence because of what is happening around us or what other people think about us. If you think about it, well, you stumbled on the right place! This is the first series and it starts with the book of Matthews. This, right here, is going to help you realise your self-worth and it will be while you go through this amazing spiritual journey. So let's dig in Matther Chapter 1!
+->Ever wondered what your worthy of? We all are aware that in the present era, we all somewhere or the other question our own existence because of what is happening around us or what other people think about us. If you think about it, well, you stumbled on the right place! This is the first series and it starts with the book of Matthews. This, right here, is going to help you realise your self-worth and it will be while you go through this amazing spiritual journey. So let's dig in Matther Chapter 1!<-
 
 ![]({{site.baseurl}}/https://github.com/a-dash-of-code/Bliss-to-my-soul/blob/gh-pages/img/against-all-odds-1.jpg)
 
